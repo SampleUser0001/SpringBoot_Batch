@@ -11,7 +11,7 @@
 	<groupId>sample.springboot.batch</groupId>
 	<artifactId>SpringBoot_Batch</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
+	<name>SpringBoot_Batch</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
